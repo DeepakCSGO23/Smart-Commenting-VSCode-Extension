@@ -11,7 +11,7 @@ Smart Commenting is a VS Code extension that automatically generates concise, me
 
 ### Demo
 
-![C++ Comment Generation](Demos/Demo.mp4)
+![C++ Comment Generation](Demos/Demo.gif)
 
 ## Requirements
 
