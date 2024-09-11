@@ -1,20 +1,13 @@
-<<<<<<< HEAD
 # Smart Commenting
 
 Smart Commenting is a VS Code extension that automatically generates concise, meaningful comments for your functions in JavaScript and C++. Say goodbye to tedious documentation and hello to instant, intelligent code annotations!
-=======
-# Smart-Commenting VSCode Extension README
-
-Note: I did not add extension.js and server.js to this repository because I do not want anyone to copy my project's source code.
-This is the README for your extension "smart-commenting". After writing up a brief description, we recommend including the following sections.
->>>>>>> 165cc213c096b63c88692e6569ab71a658c40938
 
 ## Features
 
 - Automatically generates comments for functions in JavaScript and C++ files
 - Inserts comments directly above each function, preserving original code formatting
 - Works on file save, seamlessly integrating into your workflow
-- Utilizes AI to create context-aware, meaningful comments
+- Utilizes AI to create context-aware, meaningful comments.
 
 ### JavaScript Comment Generation
 
@@ -52,27 +45,9 @@ This extension contributes the following settings:
 - `smartCommenting.enable`: Enable/disable the Smart Commenting extension
 - `smartCommenting.commentStyle`: Choose between single-line (//) or multi-line (/\* \*/) comments
 
-## Known Issues
-
-- Complex C++ function declarations may not be detected correctly
-- Nested functions in JavaScript are not currently supported
-
 ## Release Notes
 
 ### 1.0.0
-
-- Initial release of Smart Commenting
-- Support for JavaScript files
-
-### 1.1.0
-
-- Added support for C++ files
-- Improved comment formatting options
-
-### 1.1.1
-
-- Fixed issue with multi-line function detection
-- Improved error handling and logging
 
 ---
 
