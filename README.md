@@ -1,5 +1,6 @@
 # smart-commenting README
 
+Note: I did not add extension.js and server.js to this repository because I do not want anyone to copy my project's source code.
 This is the README for your extension "smart-commenting". After writing up a brief description, we recommend including the following sections.
 
 ## Features
