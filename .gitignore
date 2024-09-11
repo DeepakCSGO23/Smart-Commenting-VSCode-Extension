@@ -1,0 +1,7 @@
+node_modules
+backend/node_modules
+backend/server.js
+backend/.env
+.vscode-test/
+*.vsix
+extension.js
