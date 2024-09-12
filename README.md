@@ -47,8 +47,12 @@ This extension contributes the following settings:
 
 ---
 
-## Feedback and Contributions
+## Donations
 
-We love your feedback! If you have any suggestions, issues, or want to contribute to Smart Commenting, please visit our [GitHub repository](https://github.com/yourusername/smart-commenting).
+If you find Smart Commenting helpful and would like to support its continued development, consider making a donation. Your contributions help us maintain and improve the project!
+
+[Donate Here ❤️](https://buymeacoffee.com/deepakkn)
+
+Thank you for your support!
 
 **Enjoy smarter, cleaner code with Smart Commenting!**
