@@ -1,4 +1,4 @@
-![Logo](images/your-logo.png)
+![Logo](Demos/Logo.png)
 
 # Smart Commenting
 
