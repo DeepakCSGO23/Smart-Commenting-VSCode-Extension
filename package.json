@@ -3,6 +3,7 @@
   "displayName": "Smart Commenting",
   "description": "",
   "version": "0.0.1",
+  "icon": "Demos/Logo.png",
   "engines": {
     "vscode": "^1.93.0"
   },

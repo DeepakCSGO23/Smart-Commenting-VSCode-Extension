@@ -1,3 +1,5 @@
+![Logo](images/your-logo.png)
+
 # Smart Commenting
 
 Smart Commenting is a VS Code extension that automatically generates concise, meaningful comments for your functions in JavaScript and C++. Say goodbye to tedious documentation and hello to instant, intelligent code annotations!
