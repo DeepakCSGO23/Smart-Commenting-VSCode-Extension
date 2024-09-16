@@ -1,4 +1,4 @@
-![Logo](Demos/Logo.png)
+<img src="Demos/Logo.png" alt="Logo" width="200" height="200">
 
 # Smart Commenting
 
